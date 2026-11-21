@@ -6,6 +6,7 @@ import pkg.Shape;
  * A single {@code Shape} reference is reused to call {@code area()} on a
  * {@link Square}, a {@link Rectangle} and a {@link Circle}. Java decides
  * at runtime which version of {@code area()} to run.
+ *{ @Author is "koushik"}
  */
 public class InterObj {
 
